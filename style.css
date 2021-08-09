@@ -1,0 +1,69 @@
+h1{
+    background-color: black;
+    color:gainsboro ;
+    font-size: 45px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 45px;
+    margin-bottom: 60px;
+}
+body{
+    background-image: url('dog2.jpg'); 
+   
+   
+}
+img{
+    border: 2px solid black;
+    box-shadow: black 2px ;
+    padding: 5px;
+}
+
+.column{
+   margin-left:70px ;
+ 
+   
+   float: left;
+    width: 28%;
+   
+    
+}
+.lb{
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    padding-left:125px ;
+    padding-top: 25px;
+    font-weight: bold;
+}
+.bg{
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    padding-left:135px ;
+  
+    font-weight: bold;
+}
+.gs{
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    padding-left:43px ;
+    padding-top: 25px;
+    font-weight: bold;
+}
+
+.row{
+  padding-top: 30px;
+
+}
+marquee{
+    
+  padding-right: 20%;
+  padding-left: 20%;
+}
+.scroll{
+    font-family: cursive;
+    font-size: 30px;
+}
+
+

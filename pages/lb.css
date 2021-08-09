@@ -1,0 +1,38 @@
+h1{
+    background-color: black;
+    color:gainsboro ;
+    font-size: 45px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 45px;
+    margin-bottom: 60px;
+
+}
+body{
+    background: url("../dog7.png");
+    
+}
+img{
+    width: 32%;
+    border: 2px solid black;
+   float: right;
+   padding: 10px;
+}
+p{
+    font-weight: 500;
+    padding: 15px; 
+    font-size: 23px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+div{
+    text-align: center;
+    padding-top: 70px;
+}
+button{
+    color: gainsboro ;
+    background-color: black;
+    padding: 10px 25px;
+    cursor: pointer;
+    display: inline-block;
+    border: none;
+}
